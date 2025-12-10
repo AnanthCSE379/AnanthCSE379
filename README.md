@@ -1,4 +1,10 @@
-## Hi there 👋
+- 👋 Hi, I’m @AnanthCSE379
+- 👀 I’m interested in Competitive Programming , robotics and machine learning
+- 🌱 I’m currently learning ROS2 and machine learning
+- 💞️ I’m looking to collaborate on various projects related to Robotics and Machine Learning
+- 📫 How to reach me , my linkedin : https://www.linkedin.com/in/anantharamakrishnan-subramaniam-79209b326/
+- 😄 Pronouns: Anom, he
+- ⚡ Fun fact: ROS is fun!!
 
 <!--
 **AnanthCSE379/AnanthCSE379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
