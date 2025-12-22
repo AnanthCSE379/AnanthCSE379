@@ -5,9 +5,9 @@
 - 📫 How to reach me , my linkedin : https://www.linkedin.com/in/anantharamakrishnan-subramaniam-79209b326/
 - 😄 Pronouns: Anom, he
 
--Current Skillset : 
-  - Programming Languages : Python , Java , C/C++
-  - Libraries : Tensorflow, Pytorch, Pandas, Numpy , HuggingFace
+# Current Skillset : 
+-  Programming Languages : Python , Java , C/C++
+- Libraries : Tensorflow, Pytorch, Pandas, Numpy , HuggingFace
 
 <!--
 **AnanthCSE379/AnanthCSE379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
