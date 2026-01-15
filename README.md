@@ -1,14 +1,38 @@
-- 👋 Hi, I’m @AnanthCSE379
-- 👀 I’m interested in building and optimizing real world systems 
-- 🌱 I’m currently learning ROS2 and Deep Reinforcement Learning
-- 💞️ I’m looking to collaborate on various projects related to Machine Learning
-- 📫 How to reach me , my linkedin : https://www.linkedin.com/in/anantharamakrishnan-subramaniam-79209b326/
-- 😄 Pronouns: Anom, he
+👋 Hi, I’m **Anantharamakrishnan , in short Ananth**
 
-# Current Skillset : 
--  Programming Languages : Python , Java , C/C++
-- Libraries : Tensorflow, Pytorch, Pandas, Numpy , HuggingFace
+### 🔭 Interested in :
 
+* System design & backend engineering
+* Databases, storage engines, and how systems fail
+* ML systems (more on the infrastructure side)
+
+### 🌱 Currently learning : 
+
+* Database internals & distributed systems
+* Building reliable systems from first principles
+* Low-level behavior behind high-level abstractions
+
+### Open to collaborating on : 
+
+* Backend / systems projects
+* ML systems (data pipelines, infra)
+
+### 📫 Reach me :
+
+* LinkedIn: [https://www.linkedin.com/in/anantharamakrishnan-subramaniam-79209b326/](https://www.linkedin.com/in/anantharamakrishnan-subramaniam-79209b326/)
+
+### Pronouns :
+
+* Anom, he
+
+---
+
+### Current Skillset :
+
+* **Languages:** Python, Java, C/C++
+* **Libraries:** TensorFlow, PyTorch, Pandas, NumPy
+
+---
 <!--
 **AnanthCSE379/AnanthCSE379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
