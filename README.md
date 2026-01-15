@@ -8,11 +8,11 @@
 
 ### 🌱 Currently learning : 
 
-* Database internals & distributed systems
+* Database internals
 * Building reliable systems from first principles
 * Low-level behavior behind high-level abstractions
 
-### Open to collaborating on : 
+### 🤝 Open to collaborating on : 
 
 * Backend / systems projects
 * ML systems (data pipelines, infra)
@@ -21,13 +21,16 @@
 
 * LinkedIn: [https://www.linkedin.com/in/anantharamakrishnan-subramaniam-79209b326/](https://www.linkedin.com/in/anantharamakrishnan-subramaniam-79209b326/)
 
-### Pronouns :
+* Medium: [https://medium.com/@anomhead2022]
+(https://medium.com/@anomhead2022)
+
+### 😄 Pronouns :
 
 * Anom, he
 
 ---
 
-### Current Skillset :
+### 🛠️ Current Skillset :
 
 * **Languages:** Python, Java, C/C++
 * **Libraries:** TensorFlow, PyTorch, Pandas, NumPy
