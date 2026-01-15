@@ -21,8 +21,7 @@
 
 * LinkedIn: [https://www.linkedin.com/in/anantharamakrishnan-subramaniam-79209b326/](https://www.linkedin.com/in/anantharamakrishnan-subramaniam-79209b326/)
 
-* Medium: [https://medium.com/@anomhead2022]
-(https://medium.com/@anomhead2022)
+* Medium: https://medium.com/@anomhead2022
 
 ### 😄 Pronouns :
 
