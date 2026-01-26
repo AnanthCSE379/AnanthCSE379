@@ -3,14 +3,15 @@
 ### 🔭 Interested in :
 
 * System design & backend engineering
-* Databases, storage engines, and how systems fail
+* Databases, storage engines
+* Understanding why systems fail and how to fix them
 * ML systems (more on the infrastructure side)
 
 ### 🌱 Currently learning : 
 
 * Database internals
-* Building reliable systems from first principles
-* Low-level behavior behind high-level abstractions
+* Reliable System design
+* Low-level behavior of abstractions
 
 ### 🤝 Open to collaborating on : 
 
@@ -32,7 +33,7 @@
 ### 🛠️ Current Skillset :
 
 * **Languages:** Python, Java, C/C++
-* **Libraries:** TensorFlow, PyTorch, Pandas, NumPy
+* **Libraries:** TensorFlow, PyTorch, Pandas, NumPy, PyQt5, datetime
 
 ---
 <!--
