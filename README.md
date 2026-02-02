@@ -34,6 +34,8 @@
 
 * **Languages:** Python, Java, C/C++
 * **Libraries:** TensorFlow, PyTorch, Pandas, NumPy, PyQt5, datetime
+* **Database:** PostgreSQL, SQLite
+* **Tools:** Linux,git
 
 ---
 <!--
