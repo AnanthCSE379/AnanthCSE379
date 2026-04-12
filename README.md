@@ -33,7 +33,7 @@
 ### 🛠️ Current Skillset :
 
 * **Languages:** Python, Java, C/C++
-* **Libraries:** PyTorch, TensorFlow, PyTorch, Pandas, NumPy, PyQt5, datetime
+* **Libraries:** TensorFlow, PyTorch, Pandas, NumPy, PyQt5, datetime
 * **Tools:** Linux,git
 
 ---
