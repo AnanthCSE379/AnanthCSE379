@@ -2,21 +2,19 @@
 
 ### 🔭 Interested in :
 
-* System design & backend engineering
-* Databases, storage engines
-* Understanding why systems fail and how to fix them
-* ML systems (more on the infrastructure side)
+* Computer Vision (Specifically Mesh Recovery)
+* Reinforcement Learning
+* ML Systems backend
 
 ### 🌱 Currently learning : 
 
-* Database internals
 * Reliable System design
-* Low-level behavior of abstractions
+* Reinforcement Learning
+* Embedded ML
 
 ### 🤝 Open to collaborating on : 
 
-* Backend / systems projects
-* ML systems (data pipelines, infra)
+* Computer Vision and Reinforcement Learning Systems Projects
 
 ### 📫 Reach me :
 
@@ -26,17 +24,20 @@
 
 ### 😄 Pronouns :
 
-* Anom, he
+* He/Him
 
 ---
 
 ### 🛠️ Current Skillset :
 
-* **Languages:** Python, Java, C/C++
-* **Libraries:** TensorFlow, PyTorch, Pandas, NumPy, PyQt5, datetime
+* **Languages:** Python, Java, C/C++, SQL
+* **Libraries:** OpenCV, TensorFlow, PyTorch, ScikitLearn, Pandas, NumPy, 
 * **Tools:** Linux,git
 
 ---
+
+## Currently Working On : 
+* Human Mesh Recovery (HMR)
 <!--
 **AnanthCSE379/AnanthCSE379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
