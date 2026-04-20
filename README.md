@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Global%20Top%2011%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ananth_CSE/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Global%20Top%2015%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ananth_CSE/)
 [![Computer Vision](https://img.shields.io/badge/Computer%20Vision-HMR%20%7C%203D%20Mesh-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()
 [![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-Q--Learning%20%7C%20ESP32-7F77DD?style=for-the-badge&logo=openai&logoColor=white)]()
 [![SASTRA](https://img.shields.io/badge/SASTRA-B.Tech%20CSE-5DCAA5?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://sastra.edu)
