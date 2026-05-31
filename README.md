@@ -75,7 +75,7 @@ class Anantharamakrishnan:
 
 ## Achievements
 
-- 🏆 **LeetCode** — Global top 15%, contest rating 1690+, 250+ problems solved
+- 🏆 **LeetCode** — Global top 15%, contest rating 1690+, 350+ problems solved
 - 📋 **TCS CodeVita 2025** — Qualified to Round 2
 - 🤖 **ICPC** — Regional participant
 - 📡 **IEEE Member** — Computer Society
