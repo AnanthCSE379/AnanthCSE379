@@ -17,8 +17,8 @@ class Anantharamakrishnan:
     def __init__(self):
         self.name        = "Anantharamakrishnan S"
         self.university  = "SASTRA Deemed University"
-        self.year        = "2nd Year B.Tech CSE"
-        self.focus       = ["Computer Vision", "Reinforcement Learning", "Embedded ML"]
+        self.year        = "3rd Year B.Tech CSE"
+        self.focus       = ["Computer Vision", "Reinforcement Learning"]
         self.belief      = "Build from scratch. Understand everything. Then go faster."
 ```
 
@@ -26,7 +26,9 @@ class Anantharamakrishnan:
 
 ## What I'm Working On
 
-**RL on ESP32** — Implementing online Q-learning in embedded C on constrained hardware. The robot learns to navigate through trial and error, persisting its Q-table across power cycles.
+**Studying Neural Networks Research Papers** : Currently doing an in-depth mathematical study on Regression, Classification models along with Neural Networks, to understand the probabilistic view of such models and their working. 
+
+**YOLO Object Detection and Segmentation** : Working on a project which can detect presence of an object, perform segmentation and quantify the object to accurate real world metrics.
 
 ---
 
@@ -40,13 +42,17 @@ class Anantharamakrishnan:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**ML / CV**
+**ML / CV / RL**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00457C?style=flat-square&logo=yolo&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-7F77DD?style=flat-square&logo=python&logoColor=white)
 
 **Robotics / Embedded**
 
@@ -69,7 +75,7 @@ class Anantharamakrishnan:
 | **Multivariate Linear Regression** | Built from scratch — vectorized gradient descent, L1/L2 regularization, custom eval pipeline | NumPy, Streamlit |
 | **Adaptive Sensor Filter** | Multithreaded ROS 2 pipeline with online SGD for real-time sensor noise filtering | ROS 2, Scikit-Learn, C++ |
 | **MNIST Classifier** | Digit classification with custom inference pipeline, extending to arithmetic expressions | TensorFlow, Pandas |
-| **RL Maze Car** | Online Q-learning on ESP32 — learns to navigate in real time, persists policy to flash | Embedded C, FreeRTOS |
+| **Real-Time Object Detection and Quantification** | YOLO-based detection pipeline for multi-class object recognition and quantification | YOLO, OpenCV |
 
 ---
 
