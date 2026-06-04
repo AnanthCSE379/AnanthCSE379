@@ -74,7 +74,6 @@ class Anantharamakrishnan:
 |--------|-------------|-------|
 | **Multivariate Linear Regression** | Built from scratch — vectorized gradient descent, L1/L2 regularization, custom eval pipeline | NumPy, Streamlit |
 | **Adaptive Sensor Filter** | Multithreaded ROS 2 pipeline with online SGD for real-time sensor noise filtering | ROS 2, Scikit-Learn, C++ |
-| **MNIST Classifier** | Digit classification with custom inference pipeline, extending to arithmetic expressions | TensorFlow, Pandas |
 | **Real-Time Object Detection and Quantification** | YOLO-based detection pipeline for multi-class object recognition and quantification | YOLO, OpenCV |
 
 ---
