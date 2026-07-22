@@ -71,6 +71,7 @@ class Anantharamakrishnan:
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
+| **FactoryMind** | Custom Gymnasium-based factory scheduling simulator featuring a Maskable PPO RL agent, Human-in-the-Loop (HITL) oversight, and local LLM-powered Explainable AI (XAI) | Gymnasium, Stable-Baselines3, FastAPI, Ollama |
 | **Multivariate Linear Regression** | Built from scratch — vectorized gradient descent, L1/L2 regularization, custom eval pipeline | NumPy, Streamlit |
 | **Adaptive Sensor Filter** | Multithreaded ROS 2 pipeline with online SGD for real-time sensor noise filtering | ROS 2, Scikit-Learn, C++ |
 | **Real-Time Object Detection and Quantification** | YOLO-based detection pipeline for multi-class object recognition and quantification | YOLO, OpenCV |
