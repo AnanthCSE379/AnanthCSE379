@@ -26,7 +26,7 @@ class Anantharamakrishnan:
 
 ## What I'm Working On
 
-**Studying Neural Networks Research Papers** : Currently doing an in-depth mathematical study on Regression, Classification models along with Neural Networks, to understand the probabilistic view of such models and their working. 
+**Factory Mind** : Working on a Factory Simulation Model which can autonomously and dynamically adapt to changing work environments and demands. 
 
 **YOLO Object Detection and Segmentation** : Working on a project which can detect presence of an object, perform segmentation and quantify the object to accurate real world metrics.
 
