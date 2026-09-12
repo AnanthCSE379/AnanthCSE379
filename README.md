@@ -6,7 +6,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Global%20Top%2015%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ananth_CSE/)
 [![Computer Vision](https://img.shields.io/badge/Computer%20Vision-HMR%20%7C%203D%20Mesh-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()
-[![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-Q--Learning%20%7C%20ESP32-7F77DD?style=for-the-badge&logo=openai&logoColor=white)]()
+[![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-Q--Learning%20%7C%20PPO-7F77DD?style=for-the-badge&logo=openai&logoColor=white)]()
 [![SASTRA](https://img.shields.io/badge/SASTRA-B.Tech%20CSE-5DCAA5?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://sastra.edu)
 </div>
 
@@ -18,7 +18,7 @@ class Anantharamakrishnan:
         self.name        = "Anantharamakrishnan S"
         self.university  = "SASTRA Deemed University"
         self.year        = "3rd Year B.Tech CSE"
-        self.focus       = ["Computer Vision", "Reinforcement Learning"]
+        self.focus       = ["Reinforcement Learning","Computer Vision"]
         self.belief      = "Build from scratch. Understand everything. Then go faster."
 ```
 
@@ -28,7 +28,7 @@ class Anantharamakrishnan:
 
 **Factory Mind** : Working on a Factory Simulation Model which can autonomously and dynamically adapt to changing work environments and demands. 
 
-**YOLO Object Detection and Segmentation** : Working on a project which can detect presence of an object, perform segmentation and quantify the object to accurate real world metrics.
+**Dynamic Pricing of Electricity** : Agentic AI based electricity pricing
 
 ---
 
@@ -45,7 +45,6 @@ class Anantharamakrishnan:
 **ML / CV / RL**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00457C?style=flat-square&logo=yolo&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -71,11 +70,11 @@ class Anantharamakrishnan:
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
-| **FactoryMind** | Custom Gymnasium-based factory scheduling simulator featuring a Maskable PPO RL agent, Human-in-the-Loop (HITL) oversight, and local LLM-powered Explainable AI (XAI) | Gymnasium, Stable-Baselines3, FastAPI, Ollama |
+| **FactoryMind** (Currently being worked on)| Custom Gymnasium-based factory scheduling simulator featuring a Maskable PPO RL agent, Human-in-the-Loop (HITL) oversight, and local LLM-powered Explainable AI (XAI) | Gymnasium, Stable-Baselines3, FastAPI, Ollama |
 | **AIBodyScanner** | End-to-end web app for body composition estimation using YOLOv8 and HMR2 to reconstruct 3D human meshes from 2D photos and extract anatomical measurements | PyTorch, FastAPI, YOLOv8, 4D-Humans |
 | **Multivariate Linear Regression** | Built from scratch — vectorized gradient descent, L1/L2 regularization, custom eval pipeline | NumPy, Streamlit |
-| **Adaptive Sensor Filter** | Multithreaded ROS 2 pipeline with online SGD for real-time sensor noise filtering | ROS 2, Scikit-Learn, C++ |
-| **Real-Time Object Detection and Quantification** (Currently being worked on)| YOLO-based detection pipeline for multi-class object recognition and quantification | YOLO, OpenCV |
+| **Adaptive Sensor Filter** | Multithreaded ROS 2 pipeline with online SGD for real-time sensor noise filtering | ROS 2, Scikit-Learn, C++ 
+| **Dynamic Pricing of Electricity** (Currently being worked on)| Agentic AI based electricity pricing | PyTorch, QLoRA |
 
 ---
 
