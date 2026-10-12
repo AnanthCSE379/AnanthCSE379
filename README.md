@@ -72,8 +72,6 @@ class Anantharamakrishnan:
 |--------|-------------|-------|
 | **FactoryMind** (Currently being worked on)| Custom Gymnasium-based factory scheduling simulator featuring a Maskable PPO RL agent, Human-in-the-Loop (HITL) oversight, and local LLM-powered Explainable AI (XAI) | Gymnasium, Stable-Baselines3, FastAPI, Ollama |
 | **AIBodyScanner** | End-to-end web app for body composition estimation using YOLOv8 and HMR2 to reconstruct 3D human meshes from 2D photos and extract anatomical measurements | PyTorch, FastAPI, YOLOv8, 4D-Humans |
-| **Multivariate Linear Regression** | Built from scratch — vectorized gradient descent, L1/L2 regularization, custom eval pipeline | NumPy, Streamlit |
-| **Adaptive Sensor Filter** | Multithreaded ROS 2 pipeline with online SGD for real-time sensor noise filtering | ROS 2, Scikit-Learn, C++ 
 | **Dynamic Pricing of Electricity** (Currently being worked on)| Agentic AI based electricity pricing | PyTorch, QLoRA |
 
 ---
