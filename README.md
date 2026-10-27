@@ -18,7 +18,7 @@ class Anantharamakrishnan:
         self.name        = "Anantharamakrishnan S"
         self.university  = "SASTRA Deemed University"
         self.year        = "3rd Year B.Tech CSE"
-        self.focus       = ["Reinforcement Learning","Computer Vision"]
+        self.focus       = ["Reinforcement Learning","Optimization","Artificial Intelligence"]
         self.belief      = "Build from scratch. Understand everything. Then go faster."
 ```
 
@@ -28,7 +28,7 @@ class Anantharamakrishnan:
 
 **Factory Mind** : Working on a Factory Simulation Model which can autonomously and dynamically adapt to changing work environments and demands. 
 
-**Dynamic Pricing of Electricity** : Agentic AI based electricity pricing
+**Dynamic Pricing of Electricity** : Dynamic pricing of electricity to control consumer behaviour to ensure sustainability and lowering grid stress using Reinforcement learning.
 
 ---
 
@@ -53,12 +53,6 @@ class Anantharamakrishnan:
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 ![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-7F77DD?style=flat-square&logo=python&logoColor=white)
 
-**Robotics / Embedded**
-
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-
 **Tools**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -72,16 +66,15 @@ class Anantharamakrishnan:
 |--------|-------------|-------|
 | **FactoryMind** (Currently being worked on)| Custom Gymnasium-based factory scheduling simulator featuring a Maskable PPO RL agent, Human-in-the-Loop (HITL) oversight, and local LLM-powered Explainable AI (XAI) | Gymnasium, Stable-Baselines3, FastAPI, Ollama |
 | **AIBodyScanner** | End-to-end web app for body composition estimation using YOLOv8 and HMR2 to reconstruct 3D human meshes from 2D photos and extract anatomical measurements | PyTorch, FastAPI, YOLOv8, 4D-Humans |
-| **Dynamic Pricing of Electricity** (Currently being worked on)| Agentic AI based electricity pricing | PyTorch, QLoRA |
+| **Dynamic Pricing of Electricity** (Currently being worked on)| Dynamic pricing of grid electricity based on reinforcement learning | Stable-Baselines3, Gymnasium, PyTorch, Pandas |
 
 ---
 
 ## Achievements
 
-- 🏆 **LeetCode** — Global top 15%, contest rating 1690+, 350+ problems solved
+- 🏆 **LeetCode** — Global top 15%, contest rating 1700+, 430+ problems solved
 - 📋 **TCS CodeVita 2025** — Qualified to Round 2
 - 🤖 **ICPC** — Regional participant
-- 📡 **IEEE Member** — Computer Society
 
 ---
 
