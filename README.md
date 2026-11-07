@@ -37,7 +37,6 @@ class Anantharamakrishnan:
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -45,13 +44,13 @@ class Anantharamakrishnan:
 **ML / CV / RL**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00457C?style=flat-square&logo=yolo&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 ![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-7F77DD?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00457C?style=flat-square&logo=yolo&logoColor=white)
 
 **Tools**
 
@@ -64,9 +63,9 @@ class Anantharamakrishnan:
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
-| **FactoryMind** (Currently being worked on)| Custom Gymnasium-based factory scheduling simulator featuring a Maskable PPO RL agent, Human-in-the-Loop (HITL) oversight, and local LLM-powered Explainable AI (XAI) | Gymnasium, Stable-Baselines3, FastAPI, Ollama |
+| **FactoryMind** | Custom Gymnasium-based factory scheduling simulator featuring a Maskable PPO RL agent, Human-in-the-Loop (HITL) oversight, and local LLM-powered Explainable AI (XAI) | Gymnasium, Stable-Baselines3, FastAPI, Ollama |
+| **Dynamic Pricing of Electricity** | Dynamic pricing of grid electricity based on reinforcement learning | Stable-Baselines3, Gymnasium, PyTorch, Pandas |
 | **AIBodyScanner** | End-to-end web app for body composition estimation using YOLOv8 and HMR2 to reconstruct 3D human meshes from 2D photos and extract anatomical measurements | PyTorch, FastAPI, YOLOv8, 4D-Humans |
-| **Dynamic Pricing of Electricity** (Currently being worked on)| Dynamic pricing of grid electricity based on reinforcement learning | Stable-Baselines3, Gymnasium, PyTorch, Pandas |
 
 ---
 
